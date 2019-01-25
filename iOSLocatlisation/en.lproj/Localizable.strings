@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  iOSLocatlisation
+
+  Created by Luan Nguyen on 2019-01-25.
+  Copyright © 2019 Luan Nguyen. All rights reserved.
+*/
+
+"button_pressed" = "Button pressed";
+"good_bye " = "Good bye!";

@@ -10,11 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet var helloLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
       
     }
 
-
+    @IBAction func buttonPressed(_ sender: UIButton) {
+        
+        helloLabel.text = NSLocalizedString("button_pressed", comment: "")
+        
+    }
+    
 }
 
