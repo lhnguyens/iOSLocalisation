@@ -1,0 +1,14 @@
+
+/* Class = "UILabel"; text = "Hello"; ObjectID = "O4n-qU-KoN"; */
+"O4n-qU-KoN.text" = "Hej";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Oiw-3i-Rte"; */
+"Oiw-3i-Rte.text" = "Svenska";
+
+/* Class = "UIButton"; normalTitle = "Do not touch"; ObjectID = "QNz-Hc-Xf3"; */
+"QNz-Hc-Xf3.normalTitle" = "Rör Ej";
+
+/* Class = "UIButton"; normalTitle = "Press"; ObjectID = "hlw-n5-izw"; */
+"hlw-n5-izw.normalTitle" = "Tryck";
+
+"Mkh-Km-bOX.text" = "Hej Då";
